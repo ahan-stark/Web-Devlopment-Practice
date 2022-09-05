@@ -1,0 +1,135 @@
+html,body{
+    margin:0;
+    padding:0;
+}
+.main-footer{
+    font-size: 10px;
+    padding-left: 39em;
+    padding-right: 29em;
+
+}
+.line-footer{
+   text-align:center;
+}
+.main-head{
+    padding: 560px;
+    font-weight: 900;
+    font-size: 22px;
+
+}
+.res{
+    padding: 125px;
+    font-size: xx-large;
+}
+.rbi{
+    padding: 590px;
+}
+.header{
+    font-size: large;
+    margin: 20px;
+    font-weight: 400;
+}
+.date{
+    font-size: x-large;
+    font-weight: 500;
+    float: right;
+    margin-right: 50px;
+}
+.info{
+
+    font-size: large;
+    margin: 18px;
+
+}
+.main-content{
+    font-size: 25px;
+    margin: 20px;
+}
+.about-content{
+    font-size: initial;
+    font-weight: 100;
+    margin: 15px;
+
+}
+.main-bank{
+    font-size: 55px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.sub-head{
+    font-size: 25px;
+    padding: 16px;
+}
+.common-space{
+    font-size: 16px;
+    word-spacing: 2px;
+    line-height: 1.2;
+    padding: 16px;
+    font-family: fangsong;
+}
+.key{
+    font-size: 13px;
+    font-weight: 100;
+    font: -webkit-control;
+}
+.point-head{
+    font-size: 32px;
+    font-weight: 1000;
+}
+.content-end{
+    padding: 16px;
+    font-size: xx-large;
+}
+.image{
+    text-align: center;
+}
+.right{
+    float: right; 
+
+}
+.sect-head{
+  
+    font-size: larger;
+    font-weight: 900;
+    font-family: sans-serif;
+    -webkit-text-stroke: thin;
+}
+.mm{
+    margin: 25px;
+    margin-top: -10px;
+}
+.sect{
+    font-size: 19px;
+
+}
+
+ td{
+    border: 1px solid black;
+}
+.rbi-table{
+    font-size: 18px;
+    
+}
+.btm-abv{
+    font-size: 19px;
+}
+.press-r{
+    font-weight: bold;
+    font-size: 22px;
+}
+.press-name{
+    float: right;
+}
+.left{
+    padding: 300px;
+}
+.date-r{
+    float: right;
+}
+.rbi-logo{
+    float: right;
+}
+.right-r{
+    margin-right: -104px;
+    float: right;
+}

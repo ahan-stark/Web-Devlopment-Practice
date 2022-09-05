@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+.main-div{
+    background-color: teal;
+    width: 60em;
+    margin: auto;
+    margin-top: 6em     ;
+    height: 15em;
+    border: solid 5px;
+    border-radius: 10px;
+
+}
+.heading{
+    background-color: yellow;
+    text-align: center;
+    font-size: 2em;
+    border-radius: 10px;
+    width: 21em;
+    margin: auto;
+    margin-top: 1em;
+}
+.input-data{
+    width: 10em;
+    height: 2em;
+    margin: 0 30em;
+    margin-top: 1.9em;
+    background-color: lightskyblue;
+    border: solid 5px red;
+    border-radius: 5px;
+    border-color: crimson;
+}
+.result-print{
+    height: 3em;
+    width: 20em;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin: 0 14.5em;
+    margin-top: 0.8em;
+    color: white;
+}
+#check{
+    background-color: sandybrown;
+    margin: 0 33.8em;
+    margin-top: 10px;
+    border-radius: 6px;
+
+}
